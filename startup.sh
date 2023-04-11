@@ -1,0 +1,1 @@
+python -m bokeh serve app.py --port 8000 --address 0.0.0.0 --unused-session-lifetime 5000 --check-unused-sessions 5000 --allow-websocket-origin=Test-deploiement-bokeh.azurewebsites.net

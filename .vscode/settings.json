@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/f98b5df0-b11a-4455-85c7-42e43d1f9b9e/AppServices/subscriptions/f98b5df0-b11a-4455-85c7-42e43d1f9b9e/resourceGroups/appsvc_linux_centralus_basic3/providers/Microsoft.Web/sites/test-deploiement-bokeh",
+    "appService.deploySubpath": "."
+}
